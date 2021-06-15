@@ -18,14 +18,13 @@
 
 
 ## Table of content
-- [Overview of the project and project goals](https://github.com/nataliaburrey/Forecasting#overview-of-the-project-and-project-goals) 
-- [Software version control](https://github.com/nataliaburrey/Forecasting#software-version-control)
-    - [Libraries](https://github.com/nataliaburrey/Forecasting#libraries)
-    - [Interfaces](https://github.com/nataliaburrey/Forecasting#interfaces)
-    - [Work with GitHub](https://github.com/nataliaburrey/Forecasting#work-with-github)
-    - [How to install](https://github.com/nataliaburrey/Forecasting#how-to-install)
-- [Helps recruiters](https://github.com/nataliaburrey/Forecasting#helps-recruiters)
-- [License](https://github.com/nataliaburrey/Forecasting#license)
+- [Overview of the project and project goals](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#overview-of-the-project-and-project-goals) 
+- [Software version control](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#software-version-control)
+    - [Libraries](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#libraries)
+    - [Work with GitHub](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#work-with-github)
+    - [How to install](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#how-to-install)
+- [Helps recruiters](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#helps-recruiters)
+- [License](https://github.com/nataliaburrey/Credit_risk_resempling/blob/main/README.md#license)
 
 
 
