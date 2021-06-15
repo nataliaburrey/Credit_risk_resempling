@@ -34,11 +34,11 @@ The process consists of the following subsections:
 
 * Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
 
-```
+
 Logistic Regression:
   is designed to predict discrete outcomes. We can thus use logistic regression to make decisions. An example is whether to approve or deny a credit card application based on personal information. In this case, logistic regression assesses multiple variables, such as an applicant's age and income, to arrive at one of two answers: approve or deny the application. To further explain, a logistic regression model analyzes the available data. When presented with a new sample of data, the model mathematically determines the probability of the sample belonging to a class. If the probability is greater than a certain cutoff point, the model assigns the sample to that class. If the probability is less than or equal to the cutoff point, the model assigns the sample to the other class.
 
-```
+
 
 ## Results
 
